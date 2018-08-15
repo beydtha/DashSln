@@ -9,6 +9,9 @@ using DashBoradApp.Controllers;
 
 namespace DashBoradApp.Tests.Controllers
 {
+    /// <summary>
+    /// Testing module will start soon, please have some patience
+    /// </summary>
     [TestClass]
     public class HomeControllerTest
     {
